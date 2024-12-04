@@ -33,7 +33,7 @@ public class TestLocalDemo {
 			break;
 			
 		case 3:
-			locale=new Locale("my","marathi");
+				locale=new Locale("my","marathi");
 			System.out.println("Country : "+locale.getCountry()+" language: "+locale.getLanguage());
 			break;
 			
